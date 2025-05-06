@@ -1,5 +1,5 @@
-## Hola!👋  Soy Melanie García Lapegna 😀
-Actualmente estudio _Ingeniería en Informática_ en la Universidad de Buenos Aires 💻
+## Hola!👋  Soy Melanie García Lapegna 🌸😀
+Actualmente estoy estudiando la carrera de Ingeniería en Informática en la Universidad de Buenos Aires 💻
 
 
 
