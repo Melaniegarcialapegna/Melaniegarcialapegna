@@ -1,8 +1,7 @@
 ## Hola!👋  Soy Melanie García Lapegna 🌸😀
 Actualmente estoy estudiando la carrera de Ingeniería en Informática en la Universidad de Buenos Aires 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melaniegarcialapegna&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melaniegarcialapegna&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
